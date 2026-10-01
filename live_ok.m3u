@@ -1,37 +1,39 @@
-# 生成时间(北京时间): 2026-09-26 15:46:27
+# 生成时间(北京时间): 2026-10-01 23:13:31
 # 可用源播放列表
 
 #EXTM3U
 
-#EXTINF:-1,187ms
-https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
-#EXTINF:-1,187ms
-https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
-#EXTINF:-1,203ms
-https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv4/result.m3u
-#EXTINF:-1,227ms
-https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
-#EXTINF:-1,245ms
-https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
-#EXTINF:-1,249ms
+#EXTINF:-1,201ms
 https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
-#EXTINF:-1,251ms
-https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
-#EXTINF:-1,399ms
-https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
-#EXTINF:-1,400ms
-https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
-#EXTINF:-1,418ms
-https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
-#EXTINF:-1,420ms
-https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv6/result.m3u
-#EXTINF:-1,525ms
+#EXTINF:-1,219ms
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
-#EXTINF:-1,709ms
+#EXTINF:-1,255ms
+https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
+#EXTINF:-1,266ms
+https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
+#EXTINF:-1,267ms
+https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/sfzb3.txt
+#EXTINF:-1,286ms
+https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u
+#EXTINF:-1,290ms
+https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
+#EXTINF:-1,295ms
+https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv4/result.m3u
+#EXTINF:-1,297ms
+https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
+#EXTINF:-1,304ms
+https://raw.githubusercontent.com/bang359/dsj/refs/heads/main/dsjcs1.txt
+#EXTINF:-1,357ms
+https://raw.githubusercontent.com/fjcq168/iptv-api/62ad152eba4823deaa5f1c8768fc0e3db94fafb0/output/result.m3u
+#EXTINF:-1,466ms
+https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx365.m3u
+#EXTINF:-1,482ms
+https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/ipv6/result.m3u
+#EXTINF:-1,511ms
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
-#EXTINF:-1,1532ms
+#EXTINF:-1,831ms
 https://taoiptv.com/lives/44025.txt?token=f5ff16cbe41a1829
-#EXTINF:-1,3642ms
+#EXTINF:-1,5565ms
 https://gitee.com/hw2837/iptv/raw/master/iptv
-#EXTINF:-1,5133ms
+#EXTINF:-1,6333ms
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
