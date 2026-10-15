@@ -1,3 +1,4 @@
+https://tv.iptv2026.cc.cd/iptv.m3u
 https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/hzxs800274/iptv/raw/master/live/TV
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
